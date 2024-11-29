@@ -1,4 +1,6 @@
-#**Streamify**
+
+# Streamify
+
 A decentralized video streaming platform redefining content sharing and monetization.
 
 **Introduction**
