@@ -52,7 +52,7 @@ Smart Contracts: For decentralized content access and payment systems
 
 **Get Started**
 Clone the repository:
-git clone https://github.com/yourusername/streamify.git  
+git clone https://github.com/sanyamjain8/streamify.git  
 
 Install dependencies:
 cd streamify  
