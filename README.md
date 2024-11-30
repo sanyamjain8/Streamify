@@ -47,7 +47,7 @@ Stream & Earn: Viewers pay via Ethereum-based tokens to access premium content.
 Community Building: Leverage interchain asset transfers to expand community engagement.
 
 **Technologies Used**
-Blockchain: Ethereum & Nero Chain
+Blockchain: Ethereum & Linea Chain
 Analytics: Chainsight integration
 Smart Contracts: For decentralized content access and payment systems
 
