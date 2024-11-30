@@ -4,6 +4,7 @@
 A decentralized video streaming platform redefining content sharing and monetization.
 
 **Introduction**
+
 Streamify is a revolutionary decentralized video streaming platform designed to empower creators and communities by leveraging blockchain technology.
 Inspired by projects like Web2 - Youtube, we asked ourselves:
 
