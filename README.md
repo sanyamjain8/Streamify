@@ -35,7 +35,7 @@ Aims to unify Ethereum's distributed community into one interconnected ecosystem
 Actionable insights to enhance user engagement
 
 **Our Vision**
-To become the go-to decentralized platform for video streaming and community-driven projects on Ethereum. Streamify is not just about watching videos—it's about creating a sustainable, community-powered ecosystem for:
+To become the go-to decentralized platform for video streaming and community-driven projects on Linea. Streamify is not just about watching videos—it's about creating a sustainable, community-powered ecosystem for:
 Content sharing
 Revenue generation
 Asset management
@@ -64,7 +64,3 @@ npm start
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Stay Connected
-Discord: Join Our Community
-Website: Streamify
