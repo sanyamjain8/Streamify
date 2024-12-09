@@ -1,6 +1,8 @@
 
 # Streamify
 
+Deployed Contract Address 0x11Eb1Df677c6676F13bc6c49B58Ff3e5930d9272
+
 A decentralized video streaming platform redefining content sharing and monetization.
 
 **Introduction**
